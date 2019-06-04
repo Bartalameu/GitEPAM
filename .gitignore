@@ -3,3 +3,4 @@ file.log
 /target
 *.db
 *.log
+*.kate-swp
